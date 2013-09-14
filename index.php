@@ -11,7 +11,7 @@
     <body onLoad="updateTime();">  
         <div id="mainBody">  
             <header>  
-                <h1 >Welcome to my P1.MonkeyAround.biz</h1>  
+                <h1>Welcome to P1.MonkeyAround.biz</h1>  
             </header>  
               
             <div id="mainContent" >  
@@ -21,14 +21,14 @@
                 </section>  
                   
                 <section id="bio">  
-                    <p>I am an software developer with a higher education institute. I develop web applications using various   technologies, primarily Java, JavaScript, Oracle, Weblogic. Prior to that, I was a software engineer for a private software companay for MedMal practices and Workers' Compensation Insurance, I worked on migrating the software from the client/server version to the web. I also worked on direct client implementations to customize software for various insurance carriers. I enjoy writing code! </p>
+                    <p>I am a software developer with Harvard University. I develop web applications using various technologies, primarily Java, JavaScript, Oracle and Weblogic. Prior to that, I was a software engineer for a private software companay that specialized in Medical Malpractice and Worker's Compensation claims. I worked on migrating the software from the client/server version to the web. I also worked on direct client implementations to customize software for various insurance carriers. I enjoy writing code! </p>
                 </section> 
 
                 <section id="editor">  
-                    <p>GEDIT is the editor I use for this course. I have used a few different editors, for example: eClipse, Intellij IDEA, UltraEditor. But since GEDIT comes with my Linux (ubuntu) installation by default, it makes easy for me to use it.</p>  
+                    <p>GEDIT is the editor I use for this course. I have used a few different editors, for example: eClipse, Intellij IDEA and UltraEditor. But since GEDIT comes with my Linux (ubuntu) installation by default, it makes it easy for me to use it.</p>  
                 </section> 
                 <section id="conclusion">
-                  <p>  Already after the second class, I felt that I learned quite some interesting stuff from the course. look forward to DWA15 class! </P>  
+                  <p>  Already after the second class, I felt that I learned interesting and valuable information from the course. I look forward to the DWA15 class! </P>  
                 </section>
             </div>  
               
