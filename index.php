@@ -25,7 +25,7 @@
                     <p>GEDIT is the editor I use for this course. I have used a few different editors, for example: eClipse, Intellij IDEA, UltraEditor. But since GEDIT comes with my Linux (Ubunto) installation by default, it makes easy for me to use it.</p>  
                 </section> 
                 <section id="conclusion">
-                  <p>  Already after the second class, I felt that I learned a lot from the course. look forward to DWA15 class! </P>  
+                  <p>  Already after the second class, I felt that I learned quite some interesting stuff from the course. look forward to DWA15 class! </P>  
                 </section>
             </div>  
               
