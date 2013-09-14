@@ -15,7 +15,7 @@
             </header>  
               
             <div id="mainContent" >  
-                <div id="time" >Please wait ...</div>
+                <div id="time" >Please wait...</div>
                 <section id="name">  
                    <p>Guang Long</p>        
                 </section>  
