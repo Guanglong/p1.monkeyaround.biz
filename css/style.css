@@ -1,11 +1,11 @@
-/* page core */ 
 header {
-  text-align: center;
+  text-align: center;   
  }
+
 body {
   background: rgb(100,200,100)  ;
-  padding: 5px 10px;  
-  width: 90%;   
+  padding: 20px 15%;  
+  width: 70%;  
 } 
 
 h1 {
@@ -13,22 +13,20 @@ h1 {
   border: solid; 
   text-align: center;
   background: white ;
+  border-radius: 15px;
+  box-shadow:5px 5px 5px 20px yellow inset;  
+  text-shadow: 5px 3px 1px #bbbaba;
 }
 
-div#mainBody {  
+div#mainContent {  
     display: block;  
-    clear: both;  
     margin-bottom: 20px;
+    padding: 15px 10px;  
     
 }  
-section {       
-    float: left;    
-    padding: 5px 10px;  
-    margin: 0;  
-    text-decoration: none;        
-}  
-
-div#time {
+ 
+div#time,#nameLabel,#author{
   text-align: center;
 }
+
 
