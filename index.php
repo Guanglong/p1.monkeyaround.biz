@@ -1,4 +1,5 @@
     <!DOCTYPE html>  
+    <html>
     <head>  
       <meta charset="utf-8">  
       <title>P1.MonkeyAround.biz</title>  
@@ -20,17 +21,17 @@
                 <div id="nameLabel">  
                    My name is 
                 </div> 
-                 <div>&nbsp; </div>
+                <div>&nbsp; </div>
                 <div id="author">Guang Long</div>
                 <div id="bio">  
                     <p>I am a software developer with Harvard University. I develop software applications using various technologies, primarily Java, Oracle and Weblogic. Prior to that, I was a software engineer for a private software companay that specialized in Medical Malpractice and Worker's Compensation claims. I worked on direct client implementations to customize software for various insurance carriers. I enjoy writing code! </p>
                 </div> 
 
                 <div id="editor">  
-                    <p>GEDIT is the editor I use for this course. I have used a few different editors, for example: eClipse, IntelliJ IDEA and UltraEditor. But since GEDIT comes with my Linux (ubuntu) installation by default, it makes it easy for me to use it.</p>  
+                    <p>GEDIT is the editor I am using for this course. I have used a few different editors, for example: eClipse, IntelliJ IDEA and UltraEditor. But since GEDIT comes with my Linux (ubuntu) installation by default, it makes it easy for me to use it.</p>  
                 </div> 
                 <div id="conclusion">
-                  <p>  Already after the second class, I felt that I learned interesting and valuable information from the course. I look forward to the DWA15 class! </P>  
+                  <p>  Already after the second class, I feel that I learned interesting and valuable information from the course. I look forward to the DWA15 class! </P>  
                 </div>
             </div>  
               
