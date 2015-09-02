@@ -4,7 +4,8 @@
       <meta charset="utf-8">  
       <title>P1.MonkeyAround.biz</title>  
       <meta name="description" content="Welcome to P1.MonkeyAround.biz."> 
-      <meta name="author" content="guanglong-harvard extension school student">
+    
+    <meta name="author" content="guanglong-harvard extension school student">
       <link rel="stylesheet" href="css/style.css?v=1"> 
       <script src="js/p1.js"></script>     
     </head>  
